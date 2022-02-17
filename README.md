@@ -4,7 +4,7 @@ In this challenge we helped a nonprofit foundation, Alphabet Soup, ho needed hel
 ## Overview of the analysis: Explain the purpose of this analysis. 
 The purpose of this analysis was to explore and implement neural networks using TensorFlow in Python. Neural networks are an advanced form of Machine Learning that can recognize patterns and features in the dataset. Neural networks are modeled after the human brain and contain layers of neurons that can perform individual computations.
 
-![Neural Network](Resources/NN.png)
+![Neural Network](Resources/Neural_Network.png)
 
 ## Data Preprocessing
 - The IS_SUCCESSFUL column is considered the target for the model.
