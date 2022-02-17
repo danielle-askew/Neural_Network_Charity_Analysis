@@ -27,4 +27,4 @@ For this model we aimed for 75% accuracy. Unfortunately, even with our three dif
 
 ## Summary: 
 In summary, the model and various optimizations did not help to achieve the desired result of greater than 75%. With the variations of increasing the epochs, removing variables, adding a 3rd and even 4th hidden layer and/or increasing/decreasing the neurons, the changes were minimal and did not improve above 19 basis points. 
-In reviewing other Machine Learning algorithms, the results did not prove to be any better. Neural Networks  have proved to be very intricate and would require experience through trial and error or many iterations to identify the perfect configuration to work with this dataset.
+In reviewing other Machine Learning algorithms, the results did not prove to be any better. Neural Networks  have proved to be very intricate and would require experience through trial and error or many iterations to identify the perfect configuration to work with this dataset. 
